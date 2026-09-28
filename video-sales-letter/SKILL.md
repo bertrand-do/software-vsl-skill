@@ -1,9 +1,9 @@
 ---
-name: software-vsl
+name: video-sales-letter
 description: Plan, script, produce, or audit demo-led video sales letters for software and digital offers, including short upsell videos, with claim-safe narration and word-timed motion design.
 ---
 
-# Software VSL
+# Video Sales Letter
 
 Create a sales video in which the product demonstration carries the argument. Use Ryan Deiss-style direct-response functions and current software-launch pacing as adaptable influences; do not present the adaptation as an exact canonical Ryan Deiss formula.
 

@@ -1,4 +1,4 @@
-# Software VSL skill
+# Video Sales Letter skill
 
 A skill for Claude Code (and Codex) that writes and produces **video sales letters that convert**, not just motion demos that look good.
 
@@ -28,16 +28,16 @@ Also covers short upsell (OTO) and downsell videos.
 
 **Claude Code**
 ```
-git clone https://github.com/bertrand-do/software-vsl-skill.git
-cp -R software-vsl-skill/software-vsl ~/.claude/skills/
+git clone https://github.com/bertrand-do/video-sales-letter.git
+cp -R video-sales-letter/video-sales-letter ~/.claude/skills/
 ```
 
 **Codex**
 ```
-cp -R software-vsl-skill/software-vsl ~/.codex/skills/
+cp -R video-sales-letter/video-sales-letter ~/.codex/skills/
 ```
 
-Then ask: *"Use the software-vsl skill to script a VSL for [your product]."*
+Then ask: *"Use the video-sales-letter skill to script a VSL for [your product]."*
 
 ## Notes
 
